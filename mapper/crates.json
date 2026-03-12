@@ -1,0 +1,7254 @@
+[
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3264,
+      -2032,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3248,
+      -1920,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1328,
+      -1648,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4056,
+      -3359.9995,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3520.0002,
+      -3519.9998,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1248,
+      -1648,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      416,
+      -3456,
+      656
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -800,
+      -4016,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      528,
+      -4144,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2960,
+      -4448,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2959.9995,
+      -4360,
+      383.99643
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -672,
+      -4016,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      174,
+      -3606,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2160,
+      -5648,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6559.9995,
+      -3200,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1719.9996,
+      -1472.0001,
+      128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3800,
+      -2040,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      256,
+      -704,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -592,
+      -576,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      512,
+      -880,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -128,
+      -4176,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -32,
+      -4176,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      280,
+      -3608,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4064,
+      -4623.999,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.75,
+      0.75,
+      0.75
+    ],
+    "origin": [
+      -6416,
+      -160,
+      0
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      9112,
+      -480,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3151.9998,
+      -3776.0002,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3433.414,
+      -5281.012,
+      383.99652
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4223.9995,
+      -2976,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4031.9995,
+      -5760,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4032,
+      -5856,
+      511.9971
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6480,
+      -5744,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5568,
+      -5919.9995,
+      384.00192
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4587.3145,
+      -4075.3135,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1168,
+      -2768,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1376,
+      -2688,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1104,
+      -2416,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      976,
+      -1599.9999,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -192,
+      -3328,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8144,
+      -2048,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7694,
+      -1829,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4512,
+      -3072,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7458,
+      -2620.3667,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7824,
+      -2720,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7744,
+      -2720,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8752,
+      -2240,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3680,
+      -672,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3760,
+      -672,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3856,
+      -960,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3776,
+      -560.00006,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4720,
+      -1408,
+      -64
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3392,
+      -5184,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3744.625,
+      -340.375,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4640,
+      -3840,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4640,
+      -3712,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4336,
+      -4032,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3151.9998,
+      -3584,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3135.9998,
+      -1792.0002,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2240,
+      -5648,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3119.9995,
+      -4984,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6112,
+      -3328.0005,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.75,
+      0.75,
+      0.75
+    ],
+    "origin": [
+      6416,
+      -159.99954,
+      0
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1888,
+      -5184,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2240,
+      -5056,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      632,
+      -4143.9995,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      160.00024,
+      -3327.9998,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8880,
+      -1408,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8880,
+      -1328,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1056,
+      -1584,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4879.9995,
+      -2088.5232,
+      624
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4879.999,
+      -1956,
+      624
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2944,
+      -3919.9995,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -688,
+      -3952,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3904,
+      -1808,
+      893.66
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3616,
+      -1024,
+      -144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3528,
+      -1024,
+      -144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      560,
+      -2256,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4688,
+      -4464,
+      648
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4608,
+      -4464,
+      648
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6528,
+      -5696,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6935.02,
+      -3952.3691,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4456,
+      -1968,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3792,
+      -2232,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3792,
+      -2304,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4560,
+      -1968,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2647.9995,
+      -3400,
+      639.99963
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3408,
+      -3312,
+      648
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8970.36,
+      -3100.71,
+      520
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      48,
+      -880,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -48,
+      -880,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4032,
+      -3008,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5088,
+      -1608,
+      1144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5088,
+      -1688,
+      1144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6256,
+      -2560.0005,
+      1024.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6336,
+      -2560.0005,
+      1024.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3640.0002,
+      -3008,
+      1216.4999
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3640.0002,
+      -2912,
+      1216.4999
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3008,
+      -3232,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5136.304,
+      -1369.5458,
+      980.327
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4688,
+      -2368,
+      928
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3119.9995,
+      -5088,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3119.9995,
+      -5296,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3119.9995,
+      -5184.0005,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4288,
+      -3792,
+      1216.0012
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4208,
+      -3792,
+      1216.0012
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2392,
+      -688.00024,
+      255.9999
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2392,
+      -608.00024,
+      255.9999
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5040,
+      -2095.9993,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6511.9995,
+      -1456.0001,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6512,
+      -1376,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6000,
+      -880,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6672,
+      -2480,
+      528
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6672,
+      -2560,
+      528
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7904.0005,
+      -4143.9995,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7984.0005,
+      -4143.9995,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7504.0005,
+      -4863.9995,
+      336
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7507.374,
+      -4775.989,
+      336
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8000,
+      -3677.9297,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7744,
+      -3677.9297,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6144,
+      -1408.0005,
+      584
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6304,
+      -1168.0006,
+      584
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4560.0005,
+      -6047.9995,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8976,
+      -3860.444,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8902.057,
+      -3843.6052,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7158.9175,
+      -6115.6543,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1072,
+      -1136,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -736,
+      -768.00006,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1728,
+      -5184,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1430.8625,
+      -4518.8623,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1544,
+      -4632,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      512.00037,
+      -4288,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2776,
+      -5216,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2632,
+      -5336,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2999.9998,
+      -3008,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3007.9998,
+      -2872,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2384,
+      -976,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2384,
+      -896,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      416,
+      -3360,
+      656
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      320,
+      -716.9977,
+      -93.54843
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -592,
+      -224,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -592,
+      -160,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      592,
+      -272,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      600.47986,
+      -336,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      119.09747,
+      -655.2926,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -128,
+      -656,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      560,
+      -2792,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      560,
+      -2368,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -640,
+      -3488,
+      384.0016
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -560,
+      -3488,
+      384.0016
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3488.0002,
+      -447.99994,
+      1248
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3680.0002,
+      -447.99994,
+      1248
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5312,
+      -1888,
+      1144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2936.0002,
+      -3264,
+      1024.5001
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2768.001,
+      -4944.0005,
+      1024
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3742.625,
+      -462.25,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3648,
+      -703.99976,
+      1212
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3912,
+      -1000.00024,
+      1212
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -944.00024,
+      -2416,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      320,
+      -3488,
+      1040
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      320,
+      -3584,
+      1040
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1024,
+      -2416,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5016,
+      -5919.9995,
+      384.00192
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4944.0005,
+      -5919.9995,
+      384.00192
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5095.9995,
+      -5912,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5024,
+      -5912,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7088,
+      -5824,
+      680.2189
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5104,
+      -6240,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5200,
+      -6240,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5472,
+      -5936,
+      383.99963
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5472,
+      -5856,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7168,
+      -5776,
+      680.217
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5280,
+      -3319.9824,
+      1240.4998
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5351.5244,
+      -3319.9824,
+      1240.4998
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5440,
+      -3311.9824,
+      1240.4998
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5120,
+      -3520,
+      391.3514
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3904,
+      -1824,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4618.75,
+      -2345.25,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4877.75,
+      -2028.125,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -9120,
+      -560,
+      288
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8832,
+      -864.0002,
+      291.81982
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8832,
+      -944,
+      291.81982
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5216,
+      -5440,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5216,
+      -5362.7886,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1696,
+      -3408,
+      1040.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1696,
+      -3648,
+      1040
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1360,
+      -3584,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3168,
+      -2128.0002,
+      648.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3360,
+      -2128.0002,
+      648.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2768,
+      -2144,
+      384.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2768,
+      -2240,
+      384.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2160.0007,
+      -2303.9998,
+      768
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2160.0007,
+      -2111.9998,
+      768
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1664,
+      -1920,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1600,
+      -2720,
+      383.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1600,
+      -2640,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4452,
+      -1840,
+      -126.43067
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4372,
+      -1840,
+      -126.43067
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3096,
+      -7288,
+      513.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3018.022,
+      -7280.43,
+      513.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5061.84,
+      -1827.2025,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5061.84,
+      -1744,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5597.2686,
+      -1870.6337,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5514.066,
+      -1870.6337,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6128,
+      -1175.9999,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6128,
+      -1259.2025,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2936,
+      -2448,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3152,
+      -2456,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3152,
+      -2173.2031,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3232,
+      -2152,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3236,
+      -2456,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6112,
+      -2704,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6096,
+      -2784,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -216,
+      -1928,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -256,
+      -1919.9999,
+      -638.43066
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -304,
+      -1928,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1248,
+      -1664,
+      -638.823
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1203.1532,
+      -1663.9999,
+      -638.823
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -48,
+      -1432,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -8,
+      -1437.7178,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      32,
+      -1440,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -448,
+      -1056,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -3472,
+      -1256,
+      -384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -3512,
+      -1248,
+      -384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -3552,
+      -1248,
+      -382.82303
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -3712,
+      -551.99994,
+      -384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -3656,
+      -560,
+      -384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -3608,
+      -560,
+      -384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -4504,
+      -544,
+      -190.823
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -5880.0015,
+      -1472,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -5880.002,
+      -1392,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -5880.002,
+      -1432,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      2680,
+      -1128,
+      -256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      4952,
+      -2936,
+      0
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      4504,
+      -1984,
+      -144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      4504,
+      -2072,
+      -144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      4504,
+      -2032,
+      -144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      2680,
+      -1168,
+      -256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1384,
+      -408,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1423.9999,
+      -408,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1572,
+      -408,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1512,
+      -1528,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1472,
+      -1528,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -1651.624,
+      -1579.3984,
+      -448.00003
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -1622.0586,
+      -1607.4349,
+      -447.99893
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -2432,
+      -1116,
+      -445.8951
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -2384,
+      -1116,
+      -445.8951
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -1464,
+      -384,
+      -14
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -1512,
+      -384,
+      -14
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -4728,
+      -676,
+      -192
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -4672,
+      -676,
+      -192
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -5668,
+      -1096,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -6112,
+      -1928,
+      -32
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -6408,
+      -2332,
+      -32
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -2608,
+      1176,
+      -256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -2568,
+      1176,
+      -256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -892,
+      1084,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -932,
+      1084,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -1536,
+      423.99988,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -1423.9999,
+      412,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -1384,
+      412,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      55.999996,
+      1348,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      96,
+      1345.7178,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      136,
+      1340,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1124,
+      1512,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1760,
+      1592,
+      -636
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      2456,
+      1128.0002,
+      -445.8951
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      2408,
+      1128.0002,
+      -445.8951
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      2896,
+      928,
+      -384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      2848,
+      928,
+      -384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      3552,
+      1344,
+      -382.82303
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      3512,
+      1344,
+      -384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      5632,
+      1760,
+      -32
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      6144,
+      1536.0005,
+      -32
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      5960,
+      1456,
+      -32
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      6036,
+      1920,
+      -32
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      6624,
+      2389.4387,
+      32
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      2200,
+      -1246.5164,
+      239.96164
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      2160.6077,
+      -1242.1005,
+      238.78467
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -224,
+      -1522.624,
+      130.26071
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -180.84293,
+      -1521.4312,
+      129.08374
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -207.27081,
+      1664,
+      130.26071
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -246.66309,
+      1666.6782,
+      129.08374
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -2135.1633,
+      1242.9465,
+      239.96164
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -2095.771,
+      1236.0007,
+      238.78467
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1380.4646,
+      3432.0186,
+      160
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      1384,
+      3488,
+      160
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      3180.0732,
+      3824,
+      64.78467
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      3211.2822,
+      3850.268,
+      66.354004
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      3234.9792,
+      3892.7705,
+      64.78467
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      4536,
+      4232,
+      240
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      4480,
+      4232,
+      240
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -4440,
+      2144,
+      -143.21536
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -4439.9995,
+      2104,
+      -143.21536
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -4439.9995,
+      2064,
+      -143.21536
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -6109.635,
+      -1887.0717,
+      -31.215332
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      -6370.9043,
+      -2330.913,
+      -32
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      6038.0054,
+      1879.643,
+      -31.215332
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "origin": [
+      5344,
+      1344,
+      -3.215336
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      9184,
+      512.0002,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3264,
+      2032,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3248,
+      1920,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1328,
+      1648,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3936.0002,
+      1824,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4895.999,
+      1631.9995,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4056,
+      3359.9995,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3520.0002,
+      3519.9998,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1248,
+      1648,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -416,
+      3456,
+      656
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      800,
+      4016,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -528,
+      4144,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2960,
+      4448,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2959.9995,
+      4360,
+      383.99643
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      672,
+      4016,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -174,
+      3606,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2160,
+      5648,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5268,
+      5362.7886,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5175.999,
+      3272,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6559.9995,
+      3200,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1719.9996,
+      1472.0001,
+      128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -256,
+      704,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      592,
+      576,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -512,
+      880,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      128,
+      4176,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      32,
+      4176,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -280,
+      3608,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.75,
+      0.75,
+      0.75
+    ],
+    "origin": [
+      6416,
+      160,
+      0
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3151.9998,
+      3776.0002,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3433.414,
+      5281.012,
+      383.99652
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4223.9995,
+      2976,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4031.9995,
+      5760,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4032,
+      5856,
+      511.9971
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4587.3145,
+      4075.3135,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1168,
+      2768,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5268,
+      5440,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1376,
+      2688,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1104,
+      2416,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -976,
+      1599.9999,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      192,
+      3328,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4064,
+      3008,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4512,
+      3072,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7458,
+      2620.3667,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4895.999,
+      1727.9994,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5184,
+      6128,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5184,
+      6224,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5392,
+      5744,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8752,
+      2240,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7712,
+      1847.9995,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7839.9995,
+      2703.9985,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7920,
+      2703.9993,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3807.9998,
+      687.99963,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3727.9998,
+      687.99963,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3927.9998,
+      991.9996,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3967.9998,
+      559.99963,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5263.9995,
+      1376.0004,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4704,
+      872.0004,
+      -28
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3728,
+      280.00034,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4207.9995,
+      560.0003,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3839.9995,
+      2032.0002,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3759.9995,
+      2032.0002,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4336,
+      4032,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3151.9998,
+      3584,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3135.9998,
+      1792.0002,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2240,
+      5648,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3119.9995,
+      4984,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6112,
+      3328.0005,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      0.75,
+      0.75,
+      0.75
+    ],
+    "origin": [
+      -6416,
+      159.99954,
+      0
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8143.9995,
+      1999.9993,
+      256.375
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -632,
+      4143.9995,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -160.00024,
+      3327.9998,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8880,
+      1408,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8880,
+      1328,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3983.9998,
+      1704.0004,
+      900
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3903.9998,
+      1712.0004,
+      900
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3807.9995,
+      1700.0004,
+      900
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1056,
+      1584,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4879.9995,
+      2088.5232,
+      624
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4879.999,
+      1956,
+      624
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8768,
+      960.0008,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      8768,
+      880.001,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7760,
+      2511.9993,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2944,
+      3919.9995,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      688,
+      3952,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5392,
+      5824,
+      383.99963
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3616,
+      1024,
+      -144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3528,
+      1024,
+      -144
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -560,
+      2256,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4688,
+      4464,
+      648
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4608,
+      4464,
+      648
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5271.9995,
+      1472.0004,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4456,
+      1968,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2879.9998,
+      2400,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3152,
+      2125.2031,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3232,
+      2112,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3792,
+      2232,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3792,
+      2304,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4560,
+      1968,
+      -128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2647.9995,
+      3400,
+      639.99963
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3408,
+      3312,
+      648
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -48,
+      880,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      48,
+      880,
+      -640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6256,
+      2560.0005,
+      1024.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6336,
+      2560.0005,
+      1024.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5415.5244,
+      3335.9824,
+      1240.4998
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5504,
+      3327.9824,
+      1240.4998
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5344,
+      3335.9824,
+      1240.4998
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3640.0002,
+      3008,
+      1216.4999
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3640.0002,
+      2912,
+      1216.4999
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3008,
+      3232,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4688,
+      2368,
+      928
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3119.9995,
+      5088,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3119.9995,
+      5296,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3119.9995,
+      5184.0005,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4288,
+      3792,
+      1216.0012
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4208,
+      3792,
+      1216.0012
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5231.9995,
+      976.00037,
+      1047.998
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4927.9995,
+      1104.0004,
+      1048.001
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4991.9995,
+      1535.9994,
+      928
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2392,
+      688.00024,
+      255.9999
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2392,
+      608.00024,
+      255.9999
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5040,
+      2095.9993,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6511.9995,
+      1456.0001,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6512,
+      1376,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6000,
+      880,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6672,
+      2480,
+      528
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6672,
+      2560,
+      528
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7904.0005,
+      4143.9995,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7984.0005,
+      4143.9995,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6144,
+      1408.0005,
+      584
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6304,
+      1168.0006,
+      584
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4560.0005,
+      6047.9995,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8976,
+      3860.444,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8902.057,
+      3843.6052,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7158.9175,
+      6115.6543,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7158.9175,
+      6035.6543,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      7158.9175,
+      5955.6543,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1072,
+      1136,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      736,
+      768.00006,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1430.8625,
+      4518.8623,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1544,
+      4632,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -512.00037,
+      4288,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2999.9998,
+      3008,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3007.9998,
+      2872,
+      640.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3864,
+      392.00034,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3728,
+      384.00034,
+      256.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2384,
+      976,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2384,
+      896,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -416,
+      3360,
+      656
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -320,
+      716.9977,
+      -93.54843
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      592,
+      224,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      592,
+      160,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -592,
+      272,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -600.47986,
+      336,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      -119.09747,
+      655.2926,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": 600,
+    "scales": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "origin": [
+      128,
+      656,
+      -96
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -560,
+      2792,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -560,
+      2368,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      640,
+      3488,
+      384.0016
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      560,
+      3488,
+      384.0016
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3968,
+      1280.0004,
+      1128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3776,
+      384.00034,
+      1212
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3968,
+      1376.0004,
+      1128
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3584,
+      384.0003,
+      1212
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      2936.0002,
+      3264,
+      1024.5001
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4928,
+      1984.0005,
+      1168.9989
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      5024,
+      1984.0005,
+      1168.9974
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      944.00024,
+      2416,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -320,
+      3488,
+      1040
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -320,
+      3584,
+      1040
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      1024,
+      2416,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5016,
+      5919.9995,
+      384.00192
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4944.0005,
+      5919.9995,
+      384.00192
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2704.0005,
+      4752,
+      1056
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2368.0005,
+      5104,
+      416
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1712.0005,
+      5216,
+      512
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2208.0005,
+      4848,
+      416
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2712.0005,
+      5087.9995,
+      416
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2856.0005,
+      4847.9995,
+      416
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3472,
+      4960,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -9360,
+      591.99927,
+      288
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3680,
+      703.99976,
+      1212
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3912,
+      968.00024,
+      1212
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2384.0002,
+      2767.9998,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2304.0002,
+      2767.9998,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1440.0001,
+      1663.9999,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3104.0002,
+      2784.0002,
+      808
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2912.0002,
+      2784.0002,
+      808
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2640.0002,
+      1823.9998,
+      384.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2640.0002,
+      1727.9998,
+      384.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -3056.0002,
+      1615.9998,
+      400
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2864.0002,
+      1615.9998,
+      400
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -1248.0002,
+      3296,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2672.001,
+      3471.9995,
+      384.50485
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -2672.001,
+      3311.9995,
+      384.00485
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4865.9487,
+      5998.3706,
+      637.61646
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4937.948,
+      5998.3706,
+      637.61646
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6844.0005,
+      5760,
+      457.2327
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6844.0005,
+      5687.9995,
+      457.2327
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5556.0005,
+      5915.9995,
+      384.00192
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8970.36,
+      3164.71,
+      520
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7744,
+      3685.9297,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -8000,
+      3685.9297,
+      640
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7507.374,
+      4759.989,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7504.0005,
+      4847.9995,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -7056.0005,
+      4015.9993,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3096,
+      7288,
+      513.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3018.022,
+      7280.43,
+      513.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6336.866,
+      1229.6165,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -6336.866,
+      1304,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4997.3374,
+      1898.5596,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4997.3374,
+      1824.176,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5469.616,
+      1843.4438,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -5544,
+      1843.4438,
+      257.56934
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      3152,
+      2408,
+      -127.5
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6112,
+      2704,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      6096,
+      2784,
+      256
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4504,
+      3712,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      4504,
+      3840,
+      384
+    ]
+  },
+  {
+    "subclass_name": "citadel_breakable_prop_wooden_crate",
+    "initial_spawn_time_override": -1,
+    "scales": [
+      1,
+      1,
+      1
+    ],
+    "origin": [
+      -4096.0005,
+      4879.9995,
+      384
+    ]
+  }
+]
