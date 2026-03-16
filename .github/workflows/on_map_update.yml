@@ -26,6 +26,8 @@ jobs:
 
     # Thanks https://stackoverflow.com/questions/64868918/how-to-download-artifact-release-asset-in-another-workflow
     - name: Get run ID of build workflow
+      env:
+        GH_TOKEN: ${{ github.token }}
       id: get-run-id
       run: |
         WF_NAME=".NET release build"
