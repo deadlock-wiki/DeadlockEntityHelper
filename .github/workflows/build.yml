@@ -3,6 +3,11 @@ name: .NET release build
 on:
   push:
     branches: [ "master" ]
+    paths:
+      - 'Program.cs'
+      - 'DeadlockEntityHelper.csproj'
+      - 'DeadlockEntityHelper.sln'
+      - '.github/workflows/build.yml'
   pull_request:
     branches: [ "master" ]
 
