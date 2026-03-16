@@ -54,7 +54,7 @@ jobs:
         ./DeadlockEntityHelper $MAP_PATH $CRATE_SUBCLASS > crates.json
         ./DeadlockEntityHelper $MAP_PATH $STATUE_SUBCLASS > golden_statues.json
         CRATE_COUNT=`jq length crates.json`
-        STATUE_COUNT=`jq length statues.json`
+        STATUE_COUNT=`jq length golden_statues.json`
         cat > output.json << EOF
         {
           "crate_count": $CRATE_COUNT,
