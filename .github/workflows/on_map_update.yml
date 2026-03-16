@@ -43,7 +43,7 @@ jobs:
         repository: ${{ github.repository }}
         run-id: ${{ steps.get-run-id.outputs.run-id }}
 
-    - run: chmod +x DeadlockEntityHelper
+    - run: chmod +x ./DeadlockEntityHelper
     
     - name: Calculate latest DeadlockEntityHelper outputs
       env:
@@ -51,8 +51,8 @@ jobs:
         CRATE_SUBCLASS: citadel_breakable_prop_wooden_crate
         STATUE_SUBCLASS: citadel_breakable_item_container
       run: |
-        DeadlockEntityHelper $MAP_PATH $CRATE_SUBCLASS > crates.json
-        DeadlockEntityHelper $MAP_PATH $STATUE_SUBCLASS > golden_statues.json
+        ./DeadlockEntityHelper $MAP_PATH $CRATE_SUBCLASS > crates.json
+        ./DeadlockEntityHelper $MAP_PATH $STATUE_SUBCLASS > golden_statues.json
         CRATE_COUNT=`jq length crates.json`
         STATUE_COUNT=`jq length statues.json`
         cat > output.json << EOF
