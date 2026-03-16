@@ -58,7 +58,7 @@ jobs:
         cat > output.json << EOF
         {
           "crate_count": $CRATE_COUNT,
-          "statue_count": $STATUE_COUNT,
+          "statue_count": $STATUE_COUNT
         }
         EOF
         
