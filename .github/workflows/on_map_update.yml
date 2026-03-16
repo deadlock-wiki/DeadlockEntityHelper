@@ -15,6 +15,9 @@ jobs:
         popd
         chmod +x /tmp/steam/steamcmd.sh
 
+    - name: Update SteamCMD
+      run: /tmp/steam/steamcmd.sh +quit
+
     - name: Download latest map
       env:
         STEAM_BOT_USERNAME: ${{ secrets.STEAM_BOT_USERNAME }}
@@ -23,7 +26,7 @@ jobs:
         +login "$STEAM_BOT_USERNAME" "$STEAM_BOT_PASSWORD" \
         +sDepotDownloadFileFilter "*dl_midtown.vpk" \
         +download_depot 1422450 1422456 _ _ /tmp/deadlock \
-        +exit
+        +quit
 
     # Thanks https://stackoverflow.com/questions/64868918/how-to-download-artifact-release-asset-in-another-workflow
     - name: Get run ID of build workflow
