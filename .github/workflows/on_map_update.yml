@@ -29,7 +29,7 @@ jobs:
       id: get-run-id
       run: |
         WF_NAME=".NET release build"
-        RUN_ID=`gh run --repo ${{ github.repository }} list --workflow ${WF_NAME} --json databaseId --jq .[0].databaseId`
+        RUN_ID=`gh run --repo ${{ github.repository }} list --workflow "${WF_NAME}" --json databaseId --jq .[0].databaseId`
         echo "Detected latest run id for workflow ${WF_NAME}: ${RUN_ID}"
         echo "run-id=${RUN_ID}" >> "$GITHUB_OUTPUT"
 
