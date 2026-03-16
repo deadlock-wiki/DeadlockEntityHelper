@@ -8,8 +8,8 @@ jobs:
   parse:
     runs-on: ubuntu-latest
     steps:
-    - name: Install SteamCMD
-      run: apt-get install --yes steamcmd
+    - name: Install SteamCMD, misc deps
+      run: sudo apt-get install --yes steamcmd jq
 
     - name: Download latest map
       env:
