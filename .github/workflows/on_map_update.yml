@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Install SteamCMD, misc deps
-      run: sudo apt-get install --yes steamcmd jq
+      run: |
+        sudo add-apt-repository multiverse; sudo dpkg --add-architecture i386; sudo apt update
+        sudo apt-get install --yes steamcmd jq
 
     - name: Download latest map
       env:
