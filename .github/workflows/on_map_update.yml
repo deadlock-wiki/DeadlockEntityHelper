@@ -10,9 +10,9 @@ jobs:
     steps:
     - name: Install SteamCMD, misc deps
       run: |
-        mkdir /tmp/steam && pushdir /tmp/steam
+        mkdir /tmp/steam && pushd /tmp/steam
         curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
-        popdir
+        popd
         chmod +x /tmp/steam/steamcmd.sh
 
     - name: Download latest map
