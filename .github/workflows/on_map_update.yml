@@ -10,6 +10,7 @@ jobs:
     steps:
     - name: Install SteamCMD, misc deps
       run: |
+        sudo apt-get update && apt-get install --yes jq
         mkdir /tmp/steam && pushd /tmp/steam
         curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
         popd
