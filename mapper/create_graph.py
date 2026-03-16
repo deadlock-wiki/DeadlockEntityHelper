@@ -24,23 +24,25 @@ def crates():
     with open("crates.json") as f:
         data = json.load(f)
 
-        x_coords = []
-        y_coords = []
-        colors = []
-        for entry in data:
-            x_coords.append(entry["origin"][0])
-            y_coords.append(entry["origin"][1])
-            if entry["scales"][0] <= 0.5:
-                colors.append("blue")
-            elif entry["initial_spawn_time_override"] > 0:
-                colors.append("green")
-            else:
-                colors.append("#cc5500")  # burnt orange
+    print("There are", len(data), "crates on the map")
+
+    x_coords = []
+    y_coords = []
+    colors = []
+    for entry in data:
+        x_coords.append(entry["origin"][0])
+        y_coords.append(entry["origin"][1])
+        if entry["scales"][0] <= 0.5:
+            colors.append("blue")
+        elif entry["initial_spawn_time_override"] > 0:
+            colors.append("green")
+        else:
+            colors.append("#cc5500")  # burnt orange
 
     legend_elements = [
         Line2D([0], [0], marker="o", color="w", label="Vent access required",
                markerfacecolor="blue", markersize=10),
-        Line2D([0], [0], marker="o", color="w", label="T2 Crate (10 minute spawn)",
+        Line2D([0], [0], marker="o", color="w", label="Mid-Boss Crate (spawns after 10 minutes)",
                markerfacecolor="green", markersize=10),
         Line2D([0], [0], marker="o", color="w", label="Normal Crate",
                markerfacecolor="#cc5500", markersize=10),
@@ -52,6 +54,8 @@ def crates():
 def golden_statues():
     with open("golden_statues.json") as f:
         data = json.load(f)
+
+    print("There are", len(data), "golden statues on the map")
 
     glitched_statues = [[-704, -2320.0002, 704], [704, 2320.0002, 704]]
 

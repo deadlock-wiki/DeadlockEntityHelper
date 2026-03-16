@@ -23,6 +23,7 @@ Not much of a helper right now; currently this is used to extract the locations 
 
 ### To extract entity locations:
 
+1. `dotnet publish`
 `./DeadlockEntityHelper Deadlock/game/citadel/maps/dl_midtown.vpk citadel_breakable_prop_wooden_crate`
 
 use `citadel_breakable_item_container` for golden statues
