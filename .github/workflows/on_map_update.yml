@@ -22,11 +22,7 @@ jobs:
       env:
         STEAM_BOT_USERNAME: ${{ secrets.STEAM_BOT_USERNAME }}
         STEAM_BOT_PASSWORD: ${{ secrets.STEAM_BOT_PASSWORD }}
-      run: /tmp/steam/steamcmd.sh \
-        +login "$STEAM_BOT_USERNAME" "$STEAM_BOT_PASSWORD" \
-        +sDepotDownloadFileFilter "*dl_midtown.vpk" \
-        +download_depot 1422450 1422456 _ _ /tmp/deadlock \
-        +quit
+      run: /tmp/steam/steamcmd.sh +login "$STEAM_BOT_USERNAME" "$STEAM_BOT_PASSWORD" +sDepotDownloadFileFilter "*dl_midtown.vpk" +download_depot 1422450 1422456 _ _ /tmp/deadlock +quit
 
     # Thanks https://stackoverflow.com/questions/64868918/how-to-download-artifact-release-asset-in-another-workflow
     - name: Get run ID of build workflow
