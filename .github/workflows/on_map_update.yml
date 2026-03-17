@@ -28,7 +28,7 @@ jobs:
     - name: Get run ID of build workflow
       env:
         GH_TOKEN: ${{ github.token }}
-      id: get-run-id
+      id: get-build-run-id
       run: |
         WF_NAME=".NET release build"
         RUN_ID=`gh run --repo ${{ github.repository }} list --workflow "${WF_NAME}" --json databaseId --jq .[0].databaseId`
@@ -41,24 +41,29 @@ jobs:
         name: DeadlockEntityHelper
         github-token: ${{ github.token }}
         repository: ${{ github.repository }}
-        run-id: ${{ steps.get-run-id.outputs.run-id }}
+        run-id: ${{ steps.get-build-run-id.outputs.run-id }}
 
     - run: chmod +x ./DeadlockEntityHelper
-    
+
     - name: Calculate latest DeadlockEntityHelper outputs
       env:
         MAP_PATH: /tmp/deadlock/game/citadel/maps/dl_midtown.vpk
         CRATE_SUBCLASS: citadel_breakable_prop_wooden_crate
         STATUE_SUBCLASS: citadel_breakable_item_container
+        STEAM_BOT_USERNAME: ${{ secrets.STEAM_BOT_USERNAME }}
+        STEAM_BOT_PASSWORD: ${{ secrets.STEAM_BOT_PASSWORD }}
       run: |
-        ./DeadlockEntityHelper $MAP_PATH $CRATE_SUBCLASS > crates.json
-        ./DeadlockEntityHelper $MAP_PATH $STATUE_SUBCLASS > golden_statues.json
+        ./DeadlockEntityHelper extract $MAP_PATH $CRATE_SUBCLASS > crates.json
+        ./DeadlockEntityHelper extract $MAP_PATH $STATUE_SUBCLASS > golden_statues.json
+        ./DeadlockEntityHelper version > version.json
         CRATE_COUNT=`jq length crates.json`
         STATUE_COUNT=`jq length golden_statues.json`
+        BUILD_ID=`jq -r .buildid version.json`
         cat > output.json << EOF
         {
           "crate_count": $CRATE_COUNT,
-          "statue_count": $STATUE_COUNT
+          "statue_count": $STATUE_COUNT,
+          "buildid": $BUILD_ID
         }
         EOF
         
