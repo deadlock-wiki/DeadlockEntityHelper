@@ -41,7 +41,7 @@ public class ExtractCommand : Command
         description: "List of property names and types (string, double, or vector3) to extract, e.g. \"my_prop string\"");
 
 
-    public ExtractCommand(Option<bool> verboseOption) : base("extract", "Extract and filter entities from a VPK file")
+    public ExtractCommand(Option<bool> verboseOption) : base("extract", "Extract and filter entities from the midtown VPK file")
     {
         AddArgument(_vpkFileArgument);
         AddArgument(_entitySubClassArgument);

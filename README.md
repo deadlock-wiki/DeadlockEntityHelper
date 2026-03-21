@@ -17,17 +17,24 @@
 
 # Deadlock Entity Helper
 
-Not much of a helper right now; currently this is used to extract the locations of crates and golden statues
+Extract entity properties from the Deadlock map (currently just "Midtown").
 
 ## Usage
 
 For arguments, run `./DeadlockEntityHelper --help`
 For command arguments, run e.g `./DeadlockEntityHelper extract --help`
 
-### Example: To extract wooden crate locations on the Midtown map:
+### Example: To extract the positions of all wooden crates on the map:
 
-1. `dotnet restore`
-2. `dotnet run extract Deadlock/game/citadel/maps/dl_midtown.vpk citadel_breakable_prop_wooden_crate subclass_name string origin vector3`
+`./DeadlockEntityHelper extract Deadlock/game/citadel/maps/dl_midtown.vpk citadel_breakable_prop_wooden_crate subclass_name string origin vector3`
+
+## Building
+
+### For release
+
+`dotnet publish`
+
+The resulting executable will be in `DeadlockEntityHelper/bin/Release/net10.0/<your platform>/publish/`
 
 ## Useful entities
 
