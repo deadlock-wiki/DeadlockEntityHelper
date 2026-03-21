@@ -19,6 +19,7 @@ using System.CommandLine;
 using System.Diagnostics;
 using System.Text.Json;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Console;
 using SteamDatabase.ValvePak;
 using ValveResourceFormat;
 using ValveResourceFormat.ResourceTypes;
@@ -51,7 +52,7 @@ public class ExtractCommand : Command
         {
             using var loggerFactory = LoggerFactory.Create(builder =>
             {
-                builder.AddConsole();
+                builder.AddConsole(options => options.LogToStandardErrorThreshold = LogLevel.Trace);
                 builder.SetMinimumLevel(isVerbose ? LogLevel.Debug : LogLevel.Information);
             });
             var logger = loggerFactory.CreateLogger<ExtractCommand>();
