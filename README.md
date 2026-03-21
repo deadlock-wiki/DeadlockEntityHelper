@@ -21,15 +21,17 @@ Not much of a helper right now; currently this is used to extract the locations 
 
 ## Usage
 
-### To extract entity locations:
+For arguments, run `./DeadlockEntityHelper --help`
+For command arguments, run e.g `./DeadlockEntityHelper extract --help`
 
-1. `dotnet publish`
-`./DeadlockEntityHelper Deadlock/game/citadel/maps/dl_midtown.vpk citadel_breakable_prop_wooden_crate`
+### Example: To extract wooden crate locations on the Midtown map:
 
-use `citadel_breakable_item_container` for golden statues
+1. `dotnet restore`
+2. `dotnet run extract Deadlock/game/citadel/maps/dl_midtown.vpk citadel_breakable_prop_wooden_crate subclass_name string origin vector3`
 
-### To generate a map image
+## Useful entities
 
-1. Dump the output of `DeadlockEntityHelper` into two json files: `crates.json` and `golden_statues.json`
-2. `pip install -r requirements.txt`
-3. `python create_graph.py`
+|Entity| Description    | Useful properties                    |
+|------|----------------|--------------------------------------|
+|citadel_breakable_prop_wooden_crate| Wooden crates  | initial_spawn_time_override (double) |
+|citadel_breakable_item_container| Golden Statues | initial_spawn_time_override (double) |

@@ -17,6 +17,7 @@
 */
 using System.CommandLine;
 using System.Diagnostics;
+using System.Numerics;
 using System.Text.Json;
 using Microsoft.Extensions.Logging;
 using SteamDatabase.ValvePak;
@@ -36,13 +37,18 @@ public class ExtractCommand : Command
         name: "subclass",
         description: "The entity subclass to filter for");
 
+    private readonly Argument<string[]> _propertiesArgument = new Argument<string[]>(
+        name: "properties",
+        description: "List of property names and types (string, double, or vector3) to extract, e.g. \"my_prop string\"");
+
 
     public ExtractCommand(Option<bool> verboseOption) : base("extract", "Extract and filter entities from a VPK file")
     {
         AddArgument(_vpkFileArgument);
         AddArgument(_entitySubClassArgument);
+        AddArgument(_propertiesArgument);
 
-        this.SetHandler(async (vpkFile, entitySubClass, isVerbose) =>
+        this.SetHandler(async (vpkFile, entitySubClass, properties, isVerbose) =>
         {
             using var loggerFactory = LoggerFactory.Create(builder =>
             {
@@ -50,11 +56,11 @@ public class ExtractCommand : Command
                 builder.SetMinimumLevel(isVerbose ? LogLevel.Debug : LogLevel.Information);
             });
             var logger = loggerFactory.CreateLogger<ExtractCommand>();
-            await RunHelperAsync(vpkFile, entitySubClass, logger);
-        }, _vpkFileArgument, _entitySubClassArgument, verboseOption);
+            await RunHelperAsync(vpkFile, entitySubClass, properties, logger);
+        }, _vpkFileArgument, _entitySubClassArgument, _propertiesArgument, verboseOption);
     }
 
-    private static async Task RunHelperAsync(FileInfo vpkFile, string entitySubClass, ILogger<ExtractCommand> logger)
+    private static async Task RunHelperAsync(FileInfo vpkFile, string entitySubClass, string[] properties, ILogger<ExtractCommand> logger)
     {
         logger.LogDebug("Loading VPK: {VpkFile}", vpkFile.FullName);
         using var package = new Package();
@@ -88,21 +94,37 @@ public class ExtractCommand : Command
         var entCount = entities.Count;
         logger.LogDebug("Parsing {EntCount} entities...", entCount);
 
+        object? ReadPropertyValue(EntityLump.Entity entity, string propertyName, string propertyType)
+        {
+            switch (propertyType)
+            {
+                case "string":
+                    return entity.GetProperty<string>(propertyName);
+                case "double":
+                    return entity.GetProperty<double>(propertyName);
+                case "vector3":
+                    var vec3Prop = entity.GetVector3Property(propertyName);
+                    return new[] { vec3Prop.X, vec3Prop.Y, vec3Prop.Z };
+                default:
+                    throw new Exception($"Invalid property type: {propertyType}");
+            }
+        }
+        
         var filteredEntities = entities
             .Where(entity => entity.GetProperty<string>("subclass_name") == entitySubClass)
             .Select(entity =>
             {
-                var subclassName = entity.GetProperty<string>("subclass_name");
-                var spawnTimeOverride = entity.GetProperty<double>("initial_spawn_time_override");
-                var scales = entity.GetVector3Property("scales");
-                var origin = entity.GetVector3Property("origin");
-                return new
+                var extractedProperties = new Dictionary<string, object?>();
+
+                for (var index = 0; index < properties.Length; index += 2)
                 {
-                    subclass_name = subclassName,
-                    initial_spawn_time_override = spawnTimeOverride,
-                    scales = new[] { scales.X, scales.Y, scales.Z },
-                    origin = new[] { origin.X, origin.Y, origin.Z }
-                };
+                    var propertyName = properties[index];
+                    var propertyType = properties[index + 1];
+
+                    extractedProperties[propertyName] = ReadPropertyValue(entity, propertyName, propertyType);
+                }
+
+                return extractedProperties;
             })
             .ToList();
 
