@@ -17,7 +17,6 @@
 */
 using System.CommandLine;
 using System.Diagnostics;
-using System.Numerics;
 using System.Text.Json;
 using Microsoft.Extensions.Logging;
 using SteamDatabase.ValvePak;
