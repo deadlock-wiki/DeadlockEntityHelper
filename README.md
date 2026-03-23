@@ -42,3 +42,13 @@ The resulting executable will be in `DeadlockEntityHelper/bin/Release/net10.0/<y
 |------|----------------|--------------------------------------|
 |citadel_breakable_prop_wooden_crate| Wooden crates  | initial_spawn_time_override (double) |
 |citadel_breakable_item_container| Golden Statues | initial_spawn_time_override (double) |
+
+## Development
+
+### Versioning
+1. Push the change
+2. Increment new versions in `DeadlockEntityHelper/DeadlockEntityHelper.csproj`
+3. Tag new releases by running:
+   1. `NEW_VER=vX.Y.Z`
+   2. `git tag -a $NEW_VER -m "$NEW_VER release"`
+   2. Push the tag by running `git push origin $NEW_VER`
