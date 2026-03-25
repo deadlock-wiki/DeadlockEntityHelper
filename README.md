@@ -26,7 +26,7 @@ For command arguments, run e.g `./DeadlockEntityHelper extract --help`
 
 ### Example: To extract the positions of all wooden crates on the map:
 
-`./DeadlockEntityHelper extract Deadlock/game/citadel/maps/dl_midtown.vpk citadel_breakable_prop_wooden_crate subclass_name string origin vector3`
+`./DeadlockEntityHelper extract Deadlock/game/citadel/maps/dl_midtown.vpk subclass_name citadel_breakable_prop_wooden_crate subclass_name string origin vector3`
 
 ## Building
 

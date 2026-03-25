@@ -33,9 +33,13 @@ public class ExtractCommand : Command
         description: "The path to the midtown VPK file")
         .ExistingOnly();
 
-    private readonly Argument<string> _entitySubClassArgument = new Argument<string>(
-        name: "subclass",
-        description: "The entity subclass to filter for");
+    private readonly Argument<string> _entityKeyArgument = new Argument<string>(
+        name: "entity-key",
+        description: "The entity key to filter for");
+    
+    private readonly Argument<string> _entityValueArgument = new Argument<string>(
+        name: "entity-value",
+        description: "The value of the given entity key to filter for");
 
     private readonly Argument<string[]> _propertiesArgument = new Argument<string[]>(
         name: "properties",
@@ -45,10 +49,11 @@ public class ExtractCommand : Command
     public ExtractCommand(Option<bool> verboseOption) : base("extract", "Extract and filter entities from the midtown VPK file")
     {
         AddArgument(_vpkFileArgument);
-        AddArgument(_entitySubClassArgument);
+        AddArgument(_entityKeyArgument);
+        AddArgument(_entityValueArgument);
         AddArgument(_propertiesArgument);
 
-        this.SetHandler(async (vpkFile, entitySubClass, properties, isVerbose) =>
+        this.SetHandler(async (vpkFile, entityKey, entityValue, properties, isVerbose) =>
         {
             using var loggerFactory = LoggerFactory.Create(builder =>
             {
@@ -56,11 +61,11 @@ public class ExtractCommand : Command
                 builder.SetMinimumLevel(isVerbose ? LogLevel.Debug : LogLevel.Information);
             });
             var logger = loggerFactory.CreateLogger<ExtractCommand>();
-            await RunHelperAsync(vpkFile, entitySubClass, properties, logger);
-        }, _vpkFileArgument, _entitySubClassArgument, _propertiesArgument, verboseOption);
+            await RunHelperAsync(vpkFile, entityKey, entityValue, properties, logger);
+        }, _vpkFileArgument, _entityKeyArgument, _entityValueArgument, _propertiesArgument, verboseOption);
     }
 
-    private static async Task RunHelperAsync(FileInfo vpkFile, string entitySubClass, string[] properties, ILogger<ExtractCommand> logger)
+    private static async Task RunHelperAsync(FileInfo vpkFile, string entityKey, string entityValue, string[] properties, ILogger<ExtractCommand> logger)
     {
         logger.LogDebug("Loading VPK: {VpkFile}", vpkFile.FullName);
         using var package = new Package();
@@ -111,7 +116,7 @@ public class ExtractCommand : Command
         }
         
         var filteredEntities = entities
-            .Where(entity => entity.GetProperty<string>("subclass_name") == entitySubClass)
+            .Where(entity => entity.GetProperty<string>(entityKey) == entityValue)
             .Select(entity =>
             {
                 var extractedProperties = new Dictionary<string, object?>();
