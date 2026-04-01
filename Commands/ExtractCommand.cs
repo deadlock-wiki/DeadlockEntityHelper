@@ -19,7 +19,6 @@ using System.CommandLine;
 using System.Diagnostics;
 using System.Text.Json;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Logging.Console;
 using SteamDatabase.ValvePak;
 using ValveResourceFormat;
 using ValveResourceFormat.ResourceTypes;
@@ -45,6 +44,11 @@ public class ExtractCommand : Command
         name: "properties",
         description: "List of property names and types (string, double, or vector3) to extract, e.g. \"my_prop string\"");
 
+    private readonly Option<bool> _compactOption = new Option<bool>(
+        aliases: ["--compact", "-c"],
+        description: "Print JSON output on a single line",
+        getDefaultValue: () => false);
+    
 
     public ExtractCommand(Option<bool> verboseOption) : base("extract", "Extract and filter entities from the midtown VPK file")
     {
@@ -52,8 +56,9 @@ public class ExtractCommand : Command
         AddArgument(_entityKeyArgument);
         AddArgument(_entityValueArgument);
         AddArgument(_propertiesArgument);
+        AddOption(_compactOption);
 
-        this.SetHandler(async (vpkFile, entityKey, entityValue, properties, isVerbose) =>
+        this.SetHandler(async (vpkFile, entityKey, entityValue, properties, isCompact, isVerbose) =>
         {
             using var loggerFactory = LoggerFactory.Create(builder =>
             {
@@ -61,11 +66,18 @@ public class ExtractCommand : Command
                 builder.SetMinimumLevel(isVerbose ? LogLevel.Debug : LogLevel.Information);
             });
             var logger = loggerFactory.CreateLogger<ExtractCommand>();
-            await RunHelperAsync(vpkFile, entityKey, entityValue, properties, logger);
-        }, _vpkFileArgument, _entityKeyArgument, _entityValueArgument, _propertiesArgument, verboseOption);
+            await RunHelperAsync(vpkFile, entityKey, entityValue, properties, isCompact, logger);
+        }, _vpkFileArgument, _entityKeyArgument, _entityValueArgument, _propertiesArgument, _compactOption, verboseOption);
     }
 
-    private static async Task RunHelperAsync(FileInfo vpkFile, string entityKey, string entityValue, string[] properties, ILogger<ExtractCommand> logger)
+    private static async Task RunHelperAsync(
+        FileInfo vpkFile,
+        string entityKey,
+        string entityValue,
+        string[] properties,
+        bool compactOption,
+        ILogger<ExtractCommand> logger
+        )
     {
         logger.LogDebug("Loading VPK: {VpkFile}", vpkFile.FullName);
         using var package = new Package();
@@ -133,7 +145,7 @@ public class ExtractCommand : Command
             })
             .ToList();
 
-        var jsonOptions = new JsonSerializerOptions { WriteIndented = true };
+        var jsonOptions = new JsonSerializerOptions { WriteIndented = !compactOption };
         var jsonString = JsonSerializer.Serialize(filteredEntities, jsonOptions);
         Console.WriteLine(jsonString);
 
