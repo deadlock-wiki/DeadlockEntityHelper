@@ -1,4 +1,4 @@
-~name: .NET release build
+name: .NET release build
 
 on:
   push:
