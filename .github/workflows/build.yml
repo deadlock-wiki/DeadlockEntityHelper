@@ -5,6 +5,9 @@ on:
     branches: [ "master" ]
     paths:
       - 'Program.cs'
+      - 'Commands/**'
+      - '.gitmodules'
+      - 'vendor/**'
       - 'DeadlockEntityHelper.csproj'
       - 'DeadlockEntityHelper.sln'
       - '.github/workflows/build.yml'
@@ -18,6 +21,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v6
+      with:
+        submodules: true
     
     - name: Setup .NET
       uses: actions/setup-dotnet@v5
@@ -25,12 +30,12 @@ jobs:
         dotnet-version: 10.0.x
         
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore DeadlockEntityHelper.csproj
       
     - name: Publish
       run: |
-        dotnet publish -c Release --no-restore --runtime linux-x64
-        dotnet publish -c Release --no-restore --runtime win-x64
+        dotnet publish DeadlockEntityHelper.csproj -c Release --no-restore --runtime linux-x64
+        dotnet publish DeadlockEntityHelper.csproj -c Release --no-restore --runtime win-x64
 
     - name: Upload the executable
       uses: actions/upload-artifact@v7

@@ -8,7 +8,8 @@
         <SelfContained>true</SelfContained>
         <Nullable>enable</Nullable>
         <RuntimeIdentifiers>linux-x64;win-x64</RuntimeIdentifiers>
-        <Version>2.1.0</Version>
+        <Version>2.1.1</Version>
+        <DefaultItemExcludes>$(DefaultItemExcludes);vendor/**</DefaultItemExcludes>
     </PropertyGroup>
 
     <ItemGroup>
@@ -16,7 +17,11 @@
       <PackageReference Include="SteamKit2" Version="3.4.0" />
       <PackageReference Include="System.CommandLine" Version="3.0.0-rc.2.26504.105" />
       <PackageReference Include="ValvePak" Version="6.0.0.182" />
-      <PackageReference Include="ValveResourceFormat" Version="20.0.6980" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <!-- Built from source until a NuGet release includes KVType 26/27 support (upstream 7c1bf017a) -->
+      <ProjectReference Include="vendor/ValveResourceFormat/ValveResourceFormat/ValveResourceFormat.csproj" />
     </ItemGroup>
 
 </Project>
