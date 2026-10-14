@@ -16,26 +16,22 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 using System.CommandLine;
-using System.CommandLine.Builder;
-using System.CommandLine.Parsing;
 using DeadlockEntityHelper.Commands;
 
-var verboseOption = new Option<bool>(
-    aliases: ["--verbose", "-v"],
-    description: "Enable verbose logging.",
-    getDefaultValue: () => false);
+var verboseOption = new Option<bool>("--verbose", "-v")
+{
+    Description = "Enable verbose logging.",
+    DefaultValueFactory = _ => false,
+    Recursive = true
+};
 
 var rootCommand = new RootCommand("Deadlock Entity Helper");
-rootCommand.AddGlobalOption(verboseOption);
+rootCommand.Options.Add(verboseOption);
 
 var extractCommand = new ExtractCommand(verboseOption);
-rootCommand.AddCommand(extractCommand);
+rootCommand.Subcommands.Add(extractCommand);
 
 var versionCommand = new VersionCommand(verboseOption);
-rootCommand.AddCommand(versionCommand);
+rootCommand.Subcommands.Add(versionCommand);
 
-var builder = new CommandLineBuilder(rootCommand);
-builder.UseDefaults();
-
-var parser = builder.Build();
-return await parser.InvokeAsync(args);
+return await rootCommand.Parse(args).InvokeAsync();

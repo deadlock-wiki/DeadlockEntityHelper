@@ -19,47 +19,59 @@ using System.CommandLine;
 using System.Diagnostics;
 using System.Text.Json;
 using Microsoft.Extensions.Logging;
-using SteamDatabase.ValvePak;
+using ValvePak;
 using ValveResourceFormat;
 using ValveResourceFormat.ResourceTypes;
+using ValveResourceFormat.Serialization.KeyValues;
 
 namespace DeadlockEntityHelper.Commands;
 
 public class ExtractCommand : Command
 {
-    private readonly Argument<FileInfo> _vpkFileArgument = new Argument<FileInfo>(
-        name: "vpk-file",
-        description: "The path to the midtown VPK file")
-        .ExistingOnly();
+    private readonly Argument<FileInfo> _vpkFileArgument = new Argument<FileInfo>("vpk-file")
+    {
+        Description = "The path to the midtown VPK file"
+    }.AcceptExistingOnly();
 
-    private readonly Argument<string> _entityKeyArgument = new Argument<string>(
-        name: "entity-key",
-        description: "The entity key to filter for");
+    private readonly Argument<string> _entityKeyArgument = new Argument<string>("entity-key")
+    {
+        Description = "The entity key to filter for"
+    };
     
-    private readonly Argument<string> _entityValueArgument = new Argument<string>(
-        name: "entity-value",
-        description: "The value of the given entity key to filter for");
+    private readonly Argument<string> _entityValueArgument = new Argument<string>("entity-value")
+    {
+        Description = "The value of the given entity key to filter for"
+    };
 
-    private readonly Argument<string[]> _propertiesArgument = new Argument<string[]>(
-        name: "properties",
-        description: "List of property names and types (string, double, or vector3) to extract, e.g. \"my_prop string\"");
+    private readonly Argument<string[]> _propertiesArgument = new Argument<string[]>("properties")
+    {
+        Description = "List of property names and types (string, double, or vector3) to extract, e.g. \"my_prop string\""
+    };
 
-    private readonly Option<bool> _compactOption = new Option<bool>(
-        aliases: ["--compact", "-c"],
-        description: "Print JSON output on a single line",
-        getDefaultValue: () => false);
+    private readonly Option<bool> _compactOption = new Option<bool>("--compact", "-c")
+    {
+        Description = "Print JSON output on a single line",
+        DefaultValueFactory = _ => false
+    };
     
 
     public ExtractCommand(Option<bool> verboseOption) : base("extract", "Extract and filter entities from the midtown VPK file")
     {
-        AddArgument(_vpkFileArgument);
-        AddArgument(_entityKeyArgument);
-        AddArgument(_entityValueArgument);
-        AddArgument(_propertiesArgument);
-        AddOption(_compactOption);
+        Arguments.Add(_vpkFileArgument);
+        Arguments.Add(_entityKeyArgument);
+        Arguments.Add(_entityValueArgument);
+        Arguments.Add(_propertiesArgument);
+        Options.Add(_compactOption);
 
-        this.SetHandler(async (vpkFile, entityKey, entityValue, properties, isCompact, isVerbose) =>
+        SetAction(async parseResult =>
         {
+            var vpkFile = parseResult.GetRequiredValue(_vpkFileArgument);
+            var entityKey = parseResult.GetRequiredValue(_entityKeyArgument);
+            var entityValue = parseResult.GetRequiredValue(_entityValueArgument);
+            var properties = parseResult.GetRequiredValue(_propertiesArgument);
+            var isCompact = parseResult.GetValue(_compactOption);
+            var isVerbose = parseResult.GetValue(verboseOption);
+
             using var loggerFactory = LoggerFactory.Create(builder =>
             {
                 builder.AddConsole(options => options.LogToStandardErrorThreshold = LogLevel.Trace);
@@ -67,7 +79,7 @@ public class ExtractCommand : Command
             });
             var logger = loggerFactory.CreateLogger<ExtractCommand>();
             await RunHelperAsync(vpkFile, entityKey, entityValue, properties, isCompact, logger);
-        }, _vpkFileArgument, _entityKeyArgument, _entityValueArgument, _propertiesArgument, _compactOption, verboseOption);
+        });
     }
 
     private static async Task RunHelperAsync(
@@ -116,9 +128,9 @@ public class ExtractCommand : Command
             switch (propertyType)
             {
                 case "string":
-                    return entity.GetProperty<string>(propertyName);
+                    return entity.GetStringProperty(propertyName);
                 case "double":
-                    return entity.GetProperty<double>(propertyName);
+                    return entity.GetDoubleProperty(propertyName);
                 case "vector3":
                     var vec3Prop = entity.GetVector3Property(propertyName);
                     return new[] { vec3Prop.X, vec3Prop.Y, vec3Prop.Z };
@@ -128,7 +140,7 @@ public class ExtractCommand : Command
         }
         
         var filteredEntities = entities
-            .Where(entity => entity.GetProperty<string>(entityKey) == entityValue)
+            .Where(entity => entity.GetStringProperty(entityKey) == entityValue)
             .Select(entity =>
             {
                 var extractedProperties = new Dictionary<string, object?>();

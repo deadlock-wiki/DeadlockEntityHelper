@@ -27,8 +27,10 @@ public class VersionCommand : Command
     private const uint DeadlockAppId = 1422450;
     public VersionCommand(Option<bool> verboseOption) : base("version", "Get the latest public build ID and timestamps for Deadlock")
     {
-        this.SetHandler(async (isVerbose) =>
+        SetAction(async parseResult =>
         {
+            var isVerbose = parseResult.GetValue(verboseOption);
+
             using var loggerFactory = LoggerFactory.Create(builder =>
             {
                 builder.AddConsole();
@@ -36,7 +38,7 @@ public class VersionCommand : Command
             });
             var logger = loggerFactory.CreateLogger<VersionCommand>();
             await RunHelperAsync(logger);
-        }, verboseOption);
+        });
     }
 
     private async Task RunHelperAsync(ILogger<VersionCommand> logger)
